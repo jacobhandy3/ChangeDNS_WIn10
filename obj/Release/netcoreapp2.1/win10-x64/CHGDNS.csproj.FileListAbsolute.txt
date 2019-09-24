@@ -1,0 +1,14 @@
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\CHGDNS.exe
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\CHGDNS.deps.json
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\CHGDNS.runtimeconfig.json
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\CHGDNS.runtimeconfig.dev.json
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\CHGDNS.dll
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Release\netcoreapp2.1\win10-x64\CHGDNS.pdb
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Release\netcoreapp2.1\win10-x64\CHGDNS.csprojAssemblyReference.cache
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Release\netcoreapp2.1\win10-x64\CHGDNS.csproj.CoreCompileInputs.cache
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Release\netcoreapp2.1\win10-x64\CHGDNS.AssemblyInfoInputs.cache
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Release\netcoreapp2.1\win10-x64\CHGDNS.AssemblyInfo.cs
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Release\netcoreapp2.1\win10-x64\CHGDNS.dll
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Release\netcoreapp2.1\win10-x64\CHGDNS.pdb

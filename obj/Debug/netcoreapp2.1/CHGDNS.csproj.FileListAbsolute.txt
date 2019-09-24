@@ -1,0 +1,11 @@
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Debug\netcoreapp2.1\CHGDNS.deps.json
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Debug\netcoreapp2.1\CHGDNS.runtimeconfig.json
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Debug\netcoreapp2.1\CHGDNS.runtimeconfig.dev.json
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Debug\netcoreapp2.1\CHGDNS.dll
+F:\Programs\Cprojects\Csharp\CHGDNS\bin\Debug\netcoreapp2.1\CHGDNS.pdb
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Debug\netcoreapp2.1\CHGDNS.csprojAssemblyReference.cache
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Debug\netcoreapp2.1\CHGDNS.csproj.CoreCompileInputs.cache
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Debug\netcoreapp2.1\CHGDNS.AssemblyInfoInputs.cache
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Debug\netcoreapp2.1\CHGDNS.AssemblyInfo.cs
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Debug\netcoreapp2.1\CHGDNS.dll
+F:\Programs\Cprojects\Csharp\CHGDNS\obj\Debug\netcoreapp2.1\CHGDNS.pdb

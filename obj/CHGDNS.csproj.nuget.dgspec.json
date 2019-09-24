@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Programs\\Cprojects\\Csharp\\CHGDNS\\CHGDNS.csproj": {}
+  },
+  "projects": {
+    "F:\\Programs\\Cprojects\\Csharp\\CHGDNS\\CHGDNS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Programs\\Cprojects\\Csharp\\CHGDNS\\CHGDNS.csproj",
+        "projectName": "CHGDNS",
+        "projectPath": "F:\\Programs\\Cprojects\\Csharp\\CHGDNS\\CHGDNS.csproj",
+        "packagesPath": "C:\\Users\\jakem\\.nuget\\packages\\",
+        "outputPath": "F:\\Programs\\Cprojects\\Csharp\\CHGDNS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jakem\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.12, )",
+              "autoReferenced": true
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
